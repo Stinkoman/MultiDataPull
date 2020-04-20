@@ -1,0 +1,10 @@
+[Unit]
+Description=Multi Data Pull - pull data from different sources
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/local/MultiDataPull/run/MultiDataPullService.py
+
+[Install]
+WantedBy=multi-user.target

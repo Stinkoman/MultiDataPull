@@ -1,0 +1,12 @@
+MultiDataPull Schema -
+
+MultiDataPull is designed to be a modular way to implement data collection
+based on common scheduling, such as daily, weekly, every thirty minutes, etc. 
+
+The modules can be implemented as part of the MultiDataPull Main program, or
+individually as cron jobs or scheduled tasks. 
+
+Because of the young nature of the program, it will probably change
+significantly as versions iterate. Please bear with the process.
+
+#TODO: Schema definition

@@ -1,0 +1,6 @@
+dbusername  = "database user name here"
+dbpassword  = "database user name's password"
+dbname      = "database name"
+dbtype      = "database type as you would see in a database connection string"
+dbport      = "database port"
+dbserver    = "server name"
