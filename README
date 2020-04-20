@@ -1,0 +1,5 @@
+MultiDataPull - A short, hackish program which pulls data from various resources
+
+Currently: The program is a one-night hackjob of speciously understood
+sqlalchemy in python, coupled with the Meraki Dashboard API to pull clients in
+a Meraki Network every hour.
